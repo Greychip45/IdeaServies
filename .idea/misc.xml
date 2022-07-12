@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable-v24/btn_dialog_bg.xml" value="0.178" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable-v24/indicator_bg.xml" value="0.1165" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable-v24/text_box_bg.xml" value="0.1745" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable/bg_review.xml" value="0.18" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable/btn_accept.xml" value="0.178" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable/btn_reject.xml" value="0.178" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable/chat_view_bg.xml" value="0.2005" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable/edittext_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable/error_bg.xml" value="0.175" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable/ic_active.xml" value="0.178" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable/ic_camera.xml" value="0.1165" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable/ic_image.xml" value="0.1005" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable/ic_rejected.xml" value="0.1165" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable/ic_send.xml" value="0.1745" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable/ic_verified.xml" value="0.178" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/drawable/text_view_bg.xml" value="0.1525" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/activity_chat.xml" value="0.33" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/activity_email_login.xml" value="0.33" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/activity_first.xml" value="0.24074074074074073" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/activity_home_view.xml" value="0.24096385542168675" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/activity_list_providers.xml" value="0.25" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/activity_main.xml" value="0.24074074074074073" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/activity_messages.xml" value="0.25" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/activity_pending.xml" value="0.25" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/activity_profile.xml" value="0.2658959537572254" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/activity_show_requests.xml" value="0.25" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/activity_sprovider_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/booking_details_card.xml" value="0.33" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/chat_item_receiver.xml" value="0.5" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/chat_item_right.xml" value="0.25" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/chat_item_sender.xml" value="0.5" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/fragment_account.xml" value="0.5" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/fragment_home.xml" value="0.21" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/fragment_message.xml" value="0.21" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/fragment_provider_home.xml" value="0.33" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/fragment_request.xml" value="0.13539490179690764" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/list_items.xml" value="0.13539490179690764" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/profile_service_view.xml" value="0.33" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/review_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/reviews_view.xml" value="0.67" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/service_request_view.xml" value="0.5" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/service_view.xml" value="0.48867924528301887" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/set_price_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/user_chat_view.xml" value="0.5" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/layout/user_view.xml" value="0.4359464627151052" />
+        <entry key="..\:/Users/Grey/AndroidStudioProjects/IdeaServices/app/src/main/res/menu/menu_navigation.xml" value="0.27704147071398033" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
